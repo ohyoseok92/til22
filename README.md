@@ -12,7 +12,7 @@
 
 <details open>
   <summary><strong id="ai-agent">🤖 AI 에이전트</strong></summary>
-  </details>
+</details>
 
 <details open>
   <summary><strong id="python">🐍 파이썬</strong></summary>
