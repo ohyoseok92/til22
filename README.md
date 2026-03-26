@@ -9,9 +9,11 @@
 - **Search Tool**: SerpAPI
 
 ## 📂 Categories
-- [Python](./python)
-- [n8n & Automation](./n8n)
-- [Prompt Engineering](./prompt)
 
----
-*이 문서는 n8n 워크플로우를 통해 자동으로 업데이트됩니다.*
+<details open>
+  <summary><strong id="ai-agent">🤖 AI 에이전트</strong></summary>
+  </details>
+
+<details open>
+  <summary><strong id="python">🐍 파이썬</strong></summary>
+</details>
