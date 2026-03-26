@@ -16,4 +16,6 @@
 
 <details open>
   <summary><strong id="python">🐍 파이썬</strong></summary>
+
+- [2026-03-26-파이썬-기초-문법](python/2026-03-26-파이썬-기초-문법)
 </details>
